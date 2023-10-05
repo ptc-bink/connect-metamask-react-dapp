@@ -4,7 +4,7 @@ import Layout from "./components/Layout";
 import ConnectButton from "./components/ConnectButton";
 import AccountModal from "./components/AccountModal";
 import "@fontsource/inter";
-
+// app 
 function App() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   return (
